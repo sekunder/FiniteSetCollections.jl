@@ -1,4 +1,4 @@
-The FinteSetCollections.jl package is licensed under the MIT "Expat" License:
+The FiniteSetCollections.jl package is licensed under the MIT "Expat" License:
 
 > Copyright (c) 2018: Alex Kunin.
 >

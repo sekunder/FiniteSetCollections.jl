@@ -1,4 +1,4 @@
-using FinteSetCollections
+using FiniteSetCollections
 using Base.Test
 
 # write your own tests here

@@ -3,7 +3,7 @@
 
 Module provides data types and methods for performing computations with finite set collections, such as combinatorial codes and simplicial complexes.
 """
-module FinteSetCollections
+module FiniteSetCollections
 
 ################################################################################
 ### Import statements
